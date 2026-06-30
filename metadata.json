@@ -1,0 +1,6 @@
+{
+  "name": "Math Adventure Block World",
+  "description": "Game edukasi matematika SD Kelas 3 bergaya visual block-world 3D dengan petualangan interaktif, kustomisasi karakter, dan dashboard guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
